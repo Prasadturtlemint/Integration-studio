@@ -1,5 +1,9 @@
 What is nodejs?
 
 Node.js is an open-source, cross-platform runtime environment that allows developers to execute JavaScript code outside of a web browser.
-Node.js enables developers to build scalable server-side applications and network applications using JavaScript, a language that was traditionally used only for client-side scripting in web browsers.
+Node.js enables developers to build scalable server-side applications and network applications using JavaScript,a language that was traditionally used only for client-side scripting in web browsers.
+
+NVM :
+
+In the context of Node.js, "nvm" stands for "Node Version Manager." It is a command-line tool that allows developers to install and manage multiple versions of Node.js on their local development environment. With nvm, developers can easily switch between different Node.js versions for various projects, ensuring compatibility and avoiding potential conflicts.
 
