@@ -1,0 +1,5 @@
+What is nodejs?
+
+Node.js is an open-source, cross-platform runtime environment that allows developers to execute JavaScript code outside of a web browser.
+Node.js enables developers to build scalable server-side applications and network applications using JavaScript, a language that was traditionally used only for client-side scripting in web browsers.
+
