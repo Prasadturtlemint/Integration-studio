@@ -10,4 +10,4 @@ In the context of Node.js, "nvm" stands for "Node Version Manager." It is a comm
 NPM :
 
 1. In Node.js, "node modules" refer to the packages or libraries that are used to extend the functionality of a Node.js application
-2. Node modules are typically hosted in a public repository like npm registry, and can be easily added to a project by specifying their names and versions in a package.json file.
+2. Node modules are typically hosted in a public repository like npm registry, and can be easily added to a project by specifying their names and versionsin a package.json file.
