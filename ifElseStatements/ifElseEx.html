@@ -1,0 +1,13 @@
+<script>
+
+    var balance = 10000
+    var amount = prompt("enter a amount to transfer")
+
+    if(amount<balance){
+        alert("before deduction balance is :" +balance)
+        balance = balance-amount
+        alert("amount successfully transferred")
+    }else{
+        alert("insufficient balance");
+    }
+</script>
